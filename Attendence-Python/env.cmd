@@ -1,0 +1,1 @@
+%windir%\System32\cmd.exe "/K" C:\Users\kumar\anaconda3\Scripts\activate.bat C:\Users\kumar\anaconda3\envs\Attendance
